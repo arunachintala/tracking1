@@ -15,7 +15,7 @@ function Page1() {
     <div style={{ backgroundColor: '#F5F8F8', width: '100%', height: 'auto', padding: '1%' }}>
       <div style={{ backgroundColor: '#FFFFFF', borderRadius: '16px', padding: '2%' }}>
         <div style={{ width: '100%', backgroundColor: '#FBEAE7', display: 'flex', flexDirection: 'row', border: '1px ', borderRadius: '16px' }}>
-          <div style={{ marginTop: '7%', marginLeft: '5%', width: '60%' }}>
+          <div style={{ marginTop: '7%', marginLeft: '5%', width: '55%' }}>
             <h1 style={{ fontFamily: 'Poppins', fontWeight: '600', fontSize: '36px', lineHeight: '54px', color: '#121114' }}>Customise your tracking page</h1>
             <p style={{ color: '#5F5A6B', fontFamily: 'Poppins', fontWeight: '400', fontSize: '16px', lineHeight: '24.83px' }}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget sem iaculis, congue ligula ac, imperdiet purus. Nunc elementum massa metus, id consectetur justo aliquet quis.</p>
           </div>
